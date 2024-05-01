@@ -90,7 +90,7 @@ const ServerCopyPrint = () => {
                                     marginTop: '4px'
                                 }}
                             />
-                            <div className="font-bold mt-2">Nadim</div>
+                            <div className="font-bold mt-2">{data?.data?.data?.nameEn}</div>
                         </div>
                         <div className="w-[750px]">
                             <table style={{ borderCollapse: 'collapse', width: '60%', margin: 'auto', marginTop: '10px' }}>
